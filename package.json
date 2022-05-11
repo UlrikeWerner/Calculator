@@ -1,0 +1,20 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Build a calculator by implementing all functions in the JavaScript modules marked with [`// TODO`](https://github.com/djfarly/web-calculator-exercise/search?l=JavaScript&q=%2F%2F+TODO).",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlrikeWerner/Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UlrikeWerner/Calculator/issues"
+  },
+  "homepage": "https://github.com/UlrikeWerner/Calculator#readme"
+}
