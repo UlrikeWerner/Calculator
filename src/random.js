@@ -1,3 +1,3 @@
 export const getRandomNumber = () => {
-  // TODO implement to return random integer between 1 and 6
+  return Math.floor(Math.random() * 6) + 1;
 };
